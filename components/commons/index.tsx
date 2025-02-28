@@ -18,4 +18,5 @@ export const components = {
   : dynamic(() => import("./")),
   text_custom2: dynamic(() => import("./TextCustom2")),
   text_custom3: dynamic(() => import("./TextCustom3")),
+  text_text: dynamic(() => import("./TextText")),
 };
